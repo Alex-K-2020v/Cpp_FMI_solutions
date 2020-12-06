@@ -1,0 +1,4 @@
+﻿  task3_week7_pract.cpp
+D:\cpp intro course FMI\Practice\Cpp_FMI_solutions\task3_week7_pract\task3_week7_pract\task3_week7_pract.cpp(19,26): warning C4018: '<': signed/unsigned mismatch
+D:\cpp intro course FMI\Practice\Cpp_FMI_solutions\task3_week7_pract\task3_week7_pract\task3_week7_pract.cpp(30,26): warning C4018: '<': signed/unsigned mismatch
+  task3_week7_pract.vcxproj -> D:\cpp intro course FMI\Practice\Cpp_FMI_solutions\task3_week7_pract\Debug\task3_week7_pract.exe

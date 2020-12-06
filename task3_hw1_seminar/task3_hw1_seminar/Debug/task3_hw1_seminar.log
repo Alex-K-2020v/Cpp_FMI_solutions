@@ -1,0 +1,5 @@
+﻿  task3_hw1_seminar.cpp
+D:\cpp intro course FMI\Practice\Cpp_FMI_solutions\task3_hw1_seminar\task3_hw1_seminar\task3_hw1_seminar.cpp(103,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\cpp intro course FMI\Practice\Cpp_FMI_solutions\task3_hw1_seminar\task3_hw1_seminar\task3_hw1_seminar.cpp(189,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\cpp intro course FMI\Practice\Cpp_FMI_solutions\task3_hw1_seminar\task3_hw1_seminar\task3_hw1_seminar.cpp(273,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  task3_hw1_seminar.vcxproj -> D:\cpp intro course FMI\Practice\Cpp_FMI_solutions\task3_hw1_seminar\Debug\task3_hw1_seminar.exe
