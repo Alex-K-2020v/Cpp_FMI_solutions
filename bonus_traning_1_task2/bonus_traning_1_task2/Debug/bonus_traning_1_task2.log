@@ -1,0 +1,5 @@
+﻿  bonus_traning_1_task2.cpp
+D:\cpp intro course FMI\Practice\Cpp_FMI_solutions\bonus_traning_1_task2\bonus_traning_1_task2\bonus_traning_1_task2.cpp(21,23): warning C4018: '<': signed/unsigned mismatch
+D:\cpp intro course FMI\Practice\Cpp_FMI_solutions\bonus_traning_1_task2\bonus_traning_1_task2\bonus_traning_1_task2.cpp(29,23): warning C4018: '<': signed/unsigned mismatch
+D:\cpp intro course FMI\Practice\Cpp_FMI_solutions\bonus_traning_1_task2\bonus_traning_1_task2\bonus_traning_1_task2.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+  bonus_traning_1_task2.vcxproj -> D:\cpp intro course FMI\Practice\Cpp_FMI_solutions\bonus_traning_1_task2\Debug\bonus_traning_1_task2.exe

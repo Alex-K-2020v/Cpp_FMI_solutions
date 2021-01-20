@@ -1,0 +1,4 @@
+﻿  kontrolno_2_pract_72045.cpp
+D:\cpp intro course FMI\Practice\Cpp_FMI_solutions\kontrolno_2_pract_72045\kontrolno_2_pract_72045\kontrolno_2_pract_72045.cpp(74,26): warning C4018: '<': signed/unsigned mismatch
+D:\cpp intro course FMI\Practice\Cpp_FMI_solutions\kontrolno_2_pract_72045\kontrolno_2_pract_72045\kontrolno_2_pract_72045.cpp(78,18): warning C4018: '>': signed/unsigned mismatch
+  kontrolno_2_pract_72045.vcxproj -> D:\cpp intro course FMI\Practice\Cpp_FMI_solutions\kontrolno_2_pract_72045\Debug\kontrolno_2_pract_72045.exe

@@ -1,0 +1,28 @@
+
+Check if a string is a palindrome time test:
+The better algorithm is the iterative one.
+
+|String	                    |Iterative|Recursive|
+|			    |         |         |
+|"abcddcba" - 8 symbols	    |  600nS  |  700nS  |
+|                           |         |         |
+|"abcdcba"  - 7 symbols     |  500nS  |  600nS  |
+|                           |         |         |
+|"abcdefg"  - 8 symbols     |  500nS  |  600nS  |
+|                           |         |         |
+|"abcdefghijkl              |         |         |
+|mnoprstuvwxyz              |  900nS  |  1300nS | 
+|zyxwvutsrponml             |         |         |
+|kjihgfedcba" - 50 symbols  |         |         |
+|                           |         |         |
+|"aaaaaaaaaaaaaaaaaaaaaaa   |         |         |
+|aaaaaaaaaaaaaaaaaaaaaaa    |         |         |
+|aaaaaaaaaaaaaaaaaaaaaaa    |	      |         |
+|aaaaaaaaaaaaaaaaaaaaaaa    |         |         | 
+|aaaaaaaaaaaaaaaaaaaaaaa    |  1000nS | 22000nS |
+|aaaaaaaaaaaaaaaaaaaaaaa    |         |         |
+|aaaaaaaaaaaaaaaaaaaaaaa    |         |         |
+|aaaaaaaaaaaaaaaaaaaaaaa    |         |         |
+|aaaaaaaaaaaaaaaaaaaaaaa    |         |         |
+|aaaaaaaaaaa                |         |         |
+|aaaaaaaaa" - 228 symbols   |         |         |
